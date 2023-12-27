@@ -1,0 +1,8 @@
+.all-tours{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 100px;
+    /* background-color: red; */
+
+}
